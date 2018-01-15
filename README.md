@@ -1,2 +1,2 @@
-# Linked-List
-This is my implementation of a Linked List from a class assignment.
+# COMP 410
+These are my implementations of various data structures.
